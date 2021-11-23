@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "reconlx": "^2.4.3",
+    "snakecord": "^1.0.8",
+    "yt-search": "^2.10.2",
+    "ytdl-core": "^4.9.1"
+  }
+}
